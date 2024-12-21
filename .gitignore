@@ -1,0 +1,40 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# PyCharm project files
+.idea/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python egg and distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Log files
+*.log
+
+# Test and coverage reports
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+
+# PyInstaller
+*.manifest
+*.spec
